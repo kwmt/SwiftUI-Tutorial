@@ -15,6 +15,7 @@
 		71336B7E22B9D4EB00CA9F36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71336B7C22B9D4EB00CA9F36 /* LaunchScreen.storyboard */; };
 		71336B8922B9D4EB00CA9F36 /* Landmarks_SwiftUI_TutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71336B8822B9D4EB00CA9F36 /* Landmarks_SwiftUI_TutorialTests.swift */; };
 		71336B9422B9D4EB00CA9F36 /* Landmarks_SwiftUI_TutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71336B9322B9D4EB00CA9F36 /* Landmarks_SwiftUI_TutorialUITests.swift */; };
+		71336BA222B9EFA300CA9F36 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71336BA122B9EFA300CA9F36 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		71336B8F22B9D4EB00CA9F36 /* Landmarks-SwiftUI-TutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Landmarks-SwiftUI-TutorialUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71336B9322B9D4EB00CA9F36 /* Landmarks_SwiftUI_TutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmarks_SwiftUI_TutorialUITests.swift; sourceTree = "<group>"; };
 		71336B9522B9D4EB00CA9F36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71336BA122B9EFA300CA9F36 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				71336B7322B9D4E900CA9F36 /* SceneDelegate.swift */,
 				71336B7522B9D4E900CA9F36 /* ContentView.swift */,
 				71336B7722B9D4EA00CA9F36 /* Assets.xcassets */,
+				71336BA122B9EFA300CA9F36 /* CircleImage.swift */,
 				71336B7C22B9D4EB00CA9F36 /* LaunchScreen.storyboard */,
 				71336B7F22B9D4EB00CA9F36 /* Info.plist */,
 				71336B7922B9D4EA00CA9F36 /* Preview Content */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71336B7222B9D4E900CA9F36 /* AppDelegate.swift in Sources */,
+				71336BA222B9EFA300CA9F36 /* CircleImage.swift in Sources */,
 				71336B7422B9D4E900CA9F36 /* SceneDelegate.swift in Sources */,
 				71336B7622B9D4E900CA9F36 /* ContentView.swift in Sources */,
 			);
