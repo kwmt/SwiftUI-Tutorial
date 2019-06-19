@@ -14,6 +14,7 @@ struct ContentView : View {
             Text("Hello SwiftUI")
                 .font(.title)
             Text("Joshua Tree National Park")
+                .font(.subheadline)
         }
 
     }
